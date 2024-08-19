@@ -1,13 +1,12 @@
 # Kolmogorov-Arnold Networks (KAN) for Online Reinforcement Learning
 
 ## Overview
-Kolmogorov-Arnold Networks (KAN) are designed to provide an efficient function approximation method tailored for online reinforcement learning tasks. Inspired by the Kolmogorov-Arnold representation theorem, KANs enable quick adaptation and learning from limited data by decomposing complex functions into simpler, more manageable components. This approach is particularly advantageous in dynamic environments where traditional reinforcement learning methods struggle with slow adaptation and computational overhead.
+Kolmogorov-Arnold Networks (KAN) are designed to provide an efficient function approximation method tailored for online reinforcement learning tasks. Inspired by the Kolmogorov-Arnold representation theorem, KANs enable quick adaptation and learning from limited data by decomposing complex functions into simpler, more manageable components. This approach is particularly advantageous in dynamic environments where traditional reinforcement learning methods struggle with computational overhead.
 
 ## Key Features
 - **Efficient Function Approximation**: KANs leverage the Kolmogorov-Arnold representation to approximate complex functions with minimal computational resources, making them ideal for online learning scenarios.
 - **Scalability**: The modular structure of KANs allows for scaling to more complex tasks and environments without significant performance degradation.
 - **Flexibility**: KANs can be easily integrated with existing reinforcement learning algorithms, enhancing their performance in environments requiring rapid adaptation.
-- **Low Latency**: Optimized for low-latency decision-making, making KANs suitable for real-time applications.
 
 ## Setup
 1. Clone the KAN repository:
